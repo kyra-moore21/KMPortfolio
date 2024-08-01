@@ -1,0 +1,46 @@
+[
+    {
+        "title": "C#",
+        "imageSrc": "Csharp_Logo.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "Angular.png"
+    },
+    {
+        "title": ".Net",
+        "imageSrc": "NET.png"
+    },
+    {
+        "title": "SQL Server",
+        "imageSrc": "SQL.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "figma.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "react.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "Bootstrap.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "JS.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "TS.png"
+    }
+]
