@@ -1,0 +1,37 @@
+.container{
+     background: #19376D;
+     color: var(--color-text);
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     padding-top: 30px;
+     padding-bottom: 30px;
+}
+.Text{
+    letter-spacing: 0.05em;
+    font-family: var(--font-outfit);
+    
+}
+.Text h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+.Text h3{
+    font-size: 40px;
+    font-weight: 400
+}
+.Links{
+    letter-spacing: 0.05em;
+    font-family: var(--font-outfit);
+}
+.Link{ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    font-size: 30px;
+}
+.Link a{
+    text-decoration: none;
+    color: var(--color-text);
+}

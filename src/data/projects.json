@@ -1,0 +1,31 @@
+[
+    {
+        "title": "The Prioritizer",
+        "imageSrc": "priortizer.png",
+        "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
+        "skills": ["Angular", "C#", "REST APIs", "Azure"],
+        "demo": "https://ashy-bush-0fb3fb10f.5.azurestaticapps.net/", 
+        "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
+        "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-"
+    },
+    {
+        "title": "IT Help Desk",
+        "imageSrc": "ItHelpDesk.png",
+        "description": "Collaborated to create a full stack IT Ticket Help Desk allowing users to add, view, bookmark, and comment on tickets.",
+        "skills": ["Angular",  "C#", "SQL", "REST APIs"],
+        "demo": null,
+        "githubFrontend": "https://github.com/kyra-moore21/TicketSystemFrontEnd-Fork",
+        "githubBackend": "https://github.com/kyra-moore21/TicketBackend-Fork"
+
+    },
+    {
+        "title": "Portfolio Website",
+        "imageSrc": "portfoliosite.png",
+        "description": "A site to show off what I've worked on and built so far. Put a larger focus on styling and reponsive design. ",
+        "skills": ["React", "JSON", "Azure", "CSS"],
+        "demo": "tbd.com",
+        "githubFrontend": "https://github.com/kyra-moore21/KMPortfolio",
+        "githubBackend": null
+    }
+
+]
