@@ -1,5 +1,5 @@
 .container{
-     background: #19376D;
+     background: #611279;
      color: var(--color-text);
      display: flex;
      flex-direction: row;
@@ -34,4 +34,16 @@
 .Link a{
     text-decoration: none;
     color: var(--color-text);
+}
+.attributes{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background: #611279;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.attributes a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.514);
 }
