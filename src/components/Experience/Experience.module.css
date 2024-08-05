@@ -62,8 +62,8 @@
     flex-direction: row;
     align-items: center;
     gap: 17px;
-    background: #39196d;
-    background: linear-gradient(#36196d, rgba(47, 25, 109, 0) 100%);
+    background:  var(--color-secondary);
+    background: linear-gradient(#543196, rgba(71, 25, 109, 0) 100%);
     border-radius: 10px;
     padding: 24px;
 }
@@ -87,6 +87,9 @@
     font-style: italic;
 }
 @media screen and (max-width: 830px){
+    .container{
+        margin-top: 15px;
+    }
     .content{
         flex-direction: column;
         align-items: center;
@@ -103,5 +106,6 @@
     }
     .title{
         text-align: center;
+        margin-bottom: 15px;
     }
 }

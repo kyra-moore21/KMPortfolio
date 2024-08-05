@@ -1,46 +1,46 @@
 [
     {
         "title": "C#",
-        "imageSrc": "Csharp_Logo.png"
+        "imageSrc": "skills/Csharp_Logo.png"
     },
     {
         "title": "Angular",
-        "imageSrc": "Angular.png"
+        "imageSrc": "skills/Angular.png"
     },
     {
         "title": ".Net",
-        "imageSrc": "NET.png"
+        "imageSrc": "skills/NET.png"
     },
     {
         "title": "SQL Server",
-        "imageSrc": "SQL.png"
+        "imageSrc": "skills/SQL.png"
     },
     {
         "title": "HTML",
-        "imageSrc": "html.png"
+        "imageSrc": "skills/html.png"
     },
     {
         "title": "CSS",
-        "imageSrc": "css.png"
+        "imageSrc": "skills/css.png"
     },
     {
         "title": "Figma",
-        "imageSrc": "figma.png"
+        "imageSrc": "skills/figma.png"
     },
     {
         "title": "React",
-        "imageSrc": "react.png"
+        "imageSrc": "skills/react.png"
     },
     {
         "title": "Bootstrap",
-        "imageSrc": "Bootstrap.png"
+        "imageSrc": "skills/Bootstrap.png"
     },
     {
         "title": "JavaScript",
-        "imageSrc": "JS.png"
+        "imageSrc": "skills/JS.png"
     },
     {
         "title": "TypeScript",
-        "imageSrc": "TS.png"
+        "imageSrc": "skills/TS.png"
     }
 ]

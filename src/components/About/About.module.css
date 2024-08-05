@@ -48,6 +48,7 @@
 }
 .aboutItem img{
     height: 55px;
+    width: 55px;
     margin-right: 10px;
     color: #DA7FF3;
    
@@ -67,6 +68,7 @@
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+        margin-top: 20px;
     }
     .content{
         flex-direction: column;
@@ -75,7 +77,7 @@
         display: none;
     }
     .aboutItems{
-        margin-top: 29px;
+        margin-top: 5px;
     }
     .aboutItem{
         padding-left: 0;

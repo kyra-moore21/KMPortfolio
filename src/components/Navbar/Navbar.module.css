@@ -7,13 +7,15 @@
     justify-content: space-between;
     padding-top: 60px;
     z-index: 2;
-    margin: 0 10%
+    margin: 0 10%;
+    font-family: var(--font-oswald);
 }
 .title{
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text);
+    letter-spacing: 1.5px;
 }
 .menuBtn{
     display: none;
@@ -27,6 +29,7 @@
     display: flex;
     gap: 47px;
     list-style: none;
+    font-family: var(--font-oswald);
 }
 
 .menuItems a{
@@ -59,8 +62,8 @@
         align-items: center;
         gap: 13px;
         border-radius: 10px;
-        background: rgb(25, 55, 109);
-        background: linear-gradient(0deg, rgba(50, 25, 109, 0.2) 0%, rgb(54, 25, 109) 100%);
+        background: rgb(78, 25, 109);
+        background: linear-gradient(0deg, rgba(85, 44, 179, 0.63) 0%, rgb(54, 25, 109) 100%);
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     }

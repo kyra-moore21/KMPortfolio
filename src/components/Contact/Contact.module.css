@@ -1,49 +1,74 @@
+@import "../../var.css";
 .container{
-     background: #611279;
+     background: #582b7e;
      color: var(--color-text);
      display: flex;
      flex-direction: row;
      justify-content: space-evenly;
-     padding-top: 30px;
-     padding-bottom: 30px;
+     padding-top: 58px 10%;
 }
-.Text{
-    letter-spacing: 0.05em;
-    font-family: var(--font-outfit);
-    
-}
-.Text h1{
+
+.Text h2{
     font-size: 80px;
     font-weight: 700;
+    letter-spacing: 4px;
 }
 .Text h3{
     font-size: 40px;
-    font-weight: 400
+    font-weight: 400;
+    letter-spacing: 2px;
 }
 .Links{
-    letter-spacing: 0.05em;
-    font-family: var(--font-outfit);
-}
-.Link{ 
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 26px;
+}
+.Link{
+    display: flex;
     align-items: center;
     list-style: none;
-    font-size: 30px;
+    
 }
 .Link a{
     text-decoration: none;
     color: var(--color-text);
+    font-size: 30px;
+    font-weight: 400px;
+    letter-spacing: 1.5px;
+    margin-left: 15px;
 }
 .attributes{
-    padding-top: 10px;
-    padding-bottom: 5px;
-    background: #611279;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background: #582b7e;
+
 }
 .attributes a{
     text-decoration: none;
     color: rgba(255, 255, 255, 0.514);
+}
+
+@media screen and (max-width: 830px) {
+    .container{
+        flex-direction: column;
+        gap: 23px;
+
+    }
+    .Text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Text h2{
+        font-size: 60px;
+    }
+    .Links{
+        align-items: center
+       
+        
+    }
 }

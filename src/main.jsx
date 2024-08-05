@@ -4,6 +4,8 @@ import App from './App.jsx'
 import './index.css'
 import '@fontsource/outfit'
 import '@fontsource/roboto'
+import '@fontsource-variable/oswald';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
