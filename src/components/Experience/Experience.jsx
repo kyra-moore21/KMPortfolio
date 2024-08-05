@@ -24,6 +24,8 @@ const Skills = () => {
         <ul className={styles.history}>
           {history.map((h, id) => {
             return (
+              <div  key={id}>
+                
               <li className={styles.historyItem}> 
                 <img src={getImageUrl(h.img)} alt={`${h.Institution} Logo`} />
                 <div className={styles.historyItemDetails}>
@@ -32,6 +34,7 @@ const Skills = () => {
                   <p>{h.endDate}</p>
                 </div>
               </li>
+              </div>
             );
           })}
         </ul>

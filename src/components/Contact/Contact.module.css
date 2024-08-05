@@ -5,7 +5,9 @@
      display: flex;
      flex-direction: row;
      justify-content: space-evenly;
-     padding-top: 58px 10%;
+     padding-top: 70px 10%;
+     gap: 10px;
+     margin-top: 120px
 }
 
 .Text h2{
@@ -28,6 +30,7 @@
     display: flex;
     align-items: center;
     list-style: none;
+    gap: 25px
     
 }
 .Link a{
@@ -36,7 +39,6 @@
     font-size: 30px;
     font-weight: 400px;
     letter-spacing: 1.5px;
-    margin-left: 15px;
 }
 .attributes{
     display: flex;
@@ -64,11 +66,27 @@
         align-items: center;
     }
     .Text h2{
-        font-size: 60px;
+        font-size: 40px;
+    }
+    .Text h3{
+        font-size: 30px;
     }
     .Links{
-        align-items: center
-       
-        
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        align-items: center; 
+    }
+    .Link {
+        display: flex;
+        align-items: center;
+        gap: 8px; 
+    }
+    .Link img{
+        height: 20px;
+    }
+    .Link a{
+        font-size: 16px;
+        flex: 1;
     }
 }

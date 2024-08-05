@@ -10,6 +10,7 @@
     max-width: 345px;
     height: 600px;
     margin-bottom: 35px;
+    box-sizing: border-box;
 }
 .image{
     margin-bottom: 26px;
@@ -61,4 +62,25 @@
     padding: 1px 22px;
     margin-bottom: 10px;
 
+}
+@media screen and (max-width: 830px) {
+    .container {
+        padding: 18px 12px;
+        height: auto;
+    }
+    .title,
+    .description,
+    .link {
+        font-size: 20px;
+    }
+    .link {
+        padding: 2px 16px;
+    }
+    .skills {
+        gap: 4px;
+    }
+    .skill {
+        font-size: 18px;
+        padding: 2px 18px;
+    }
 }
