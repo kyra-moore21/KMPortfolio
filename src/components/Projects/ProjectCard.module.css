@@ -84,3 +84,23 @@
         padding: 2px 18px;
     }
 }
+@media screen and (max-width: 1200px) {
+    .container {
+        height: auto;
+    }
+    .title,
+    .description,
+    .link {
+        font-size: 18px;
+    }
+    .link {
+        padding: 2px 12px;
+    }
+    .skills {
+        gap: 3px;
+    }
+    .skill {
+        font-size: 16px;
+        padding: 2px 12px;
+    }
+}
