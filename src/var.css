@@ -12,3 +12,10 @@
     --font-outfit: "Outfit";
 
 }
+:global(.swiper-pagination-bullet){
+   
+    background-color: #e4e2e4e5;
+ }
+ :global(.swiper-pagination-bullet-active){
+    background-color: #eeb8ff;
+  }
