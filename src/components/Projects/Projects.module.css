@@ -5,6 +5,8 @@
     color: var(--color-text);
     margin-left: 10%;
     margin-right: 10%;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .title{
@@ -12,6 +14,7 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin: 0;
 }
 
 .projects{
@@ -24,3 +27,28 @@
     gap: 15px;
     width: 100;
 }
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navigation{
+    display: flex;
+    gap: 10px;
+}
+.navButton {
+    background-color: transparent;
+    border: none;
+    font-size: 35px;
+    cursor: pointer;
+    color: #fdbbfa; 
+  }
+  .navButton:hover {
+    color: #ad7de4; 
+  }
+ .swiper-pagination-bullet{
+    background-color: #e5cbe7a9 !important;
+ }
+ .swiper-pagination-bullet-active{
+    background-color: #d2a5e0 !important; 
+  }
