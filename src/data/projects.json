@@ -26,6 +26,15 @@
         "demo": "https://kyramoore.netlify.app",
         "githubFrontend": "https://github.com/kyra-moore21/KMPortfolio",
         "githubBackend": null
+    },
+    {
+        "title": "Tech Connect",
+        "imageSrc": "projectScreenshots/code.jpg",
+        "description": "Creating a platform for junior tech professionals to collaborate on projects together",
+        "skills": ["C#", ".Net CORE", "REST APIs"],
+        "demo": null,
+        "githubFrontend": null,
+        "githubBackend": "https://github.com/kyra-moore21/TechConnect"
     }
 
 ]
