@@ -4,7 +4,7 @@
         "imageSrc": "projectScreenshots/priortizer.png",
         "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
         "skills": ["Angular", "C#", "REST APIs", "Azure"],
-        "demo": "https://ashy-bush-0fb3fb10f.5.azurestaticapps.net/", 
+        "demo": null, 
         "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
         "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-"
     },
