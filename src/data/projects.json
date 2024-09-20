@@ -3,8 +3,8 @@
         "title": "The Prioritizer",
         "imageSrc": "projectScreenshots/priortizer.png",
         "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
-        "skills": ["Angular", "C#", "REST APIs", "Azure"],
-        "demo": null, 
+        "skills": ["Angular", "C#", "REST APIs", "Heroku", "PosgreSQL", "Netlify"],
+        "demo": "https://theprioritizer.netlify.app/homepage", 
         "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
         "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-"
     },
@@ -22,7 +22,7 @@
         "title": "Portfolio Website",
         "imageSrc": "projectScreenshots/portfoliosite.png",
         "description": "A site to show off what I've worked on and built so far. Put a larger focus on styling and reponsive design. ",
-        "skills": ["React", "JSON", "Azure", "CSS"],
+        "skills": ["React", "JSON", "Netlify", "CSS"],
         "demo": "https://kyramoore.netlify.app",
         "githubFrontend": "https://github.com/kyra-moore21/KMPortfolio",
         "githubBackend": null
