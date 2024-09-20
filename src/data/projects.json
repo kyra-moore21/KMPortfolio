@@ -4,7 +4,7 @@
         "imageSrc": "projectScreenshots/priortizer.png",
         "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
         "skills": ["Angular", "C#", "REST APIs", "Heroku", "PosgreSQL", "Netlify"],
-        "demo": "https://theprioritizer.netlify.app/homepage", 
+        "demo": "https://theprioritizer.netlify.app/", 
         "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
         "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-"
     },
