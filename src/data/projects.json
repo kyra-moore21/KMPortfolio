@@ -23,7 +23,7 @@
     {
         "title": "Number Converter",
         "imageSrc": "projectScreenshots/code.jpg",
-        "description": "Creating a platform for junior tech professionals to collaborate on projects together",
+        "description": "A full stack app that converts numbers to words. Used Azure to host the backend and Netlify for the frontend.",
         "skills": ["C#", ".Net CORE", "React","Azure"],
         "demo": "https://thenumberconverter.netlify.app/",
         "githubFrontend": null,
