@@ -3,10 +3,11 @@
         "title": "The Prioritizer",
         "imageSrc": "projectScreenshots/priortizer.png",
         "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
-        "skills": ["Angular", "C#", "REST APIs", "Heroku", "PosgreSQL", "Netlify"],
+        "skills": ["Angular", "C#", "REST APIs", "PosgreSQL"],
         "demo": "https://theprioritizer.netlify.app/", 
         "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
-        "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-"
+        "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-",
+        "githubFullStack": null
     },
     {
         "title": "IT Help Desk",
@@ -15,8 +16,19 @@
         "skills": ["Angular",  "C#", "SQL", "REST APIs"],
         "demo": null,
         "githubFrontend": "https://github.com/kyra-moore21/TicketSystemFrontEnd-Fork",
-        "githubBackend": "https://github.com/kyra-moore21/TicketBackend-Fork"
+        "githubBackend": "https://github.com/kyra-moore21/TicketBackend-Fork",
+        "githubFullStack": null
 
+    },
+    {
+        "title": "Number Converter",
+        "imageSrc": "projectScreenshots/code.jpg",
+        "description": "Creating a platform for junior tech professionals to collaborate on projects together",
+        "skills": ["C#", ".Net CORE", "React","Azure"],
+        "demo": "https://thenumberconverter.netlify.app/",
+        "githubFrontend": null,
+        "githubBackend": "https://github.com/kyra-moore21/TechConnect",
+        "githubFullStack": "https://github.com/kyra-moore21/NumberConverter"
     },
     {
         "title": "Portfolio Website",
@@ -25,16 +37,8 @@
         "skills": ["React", "JSON", "Netlify", "CSS"],
         "demo": "https://kyramoore.netlify.app",
         "githubFrontend": "https://github.com/kyra-moore21/KMPortfolio",
-        "githubBackend": null
-    },
-    {
-        "title": "Tech Connect",
-        "imageSrc": "projectScreenshots/code.jpg",
-        "description": "Creating a platform for junior tech professionals to collaborate on projects together",
-        "skills": ["C#", ".Net CORE", "REST APIs"],
-        "demo": null,
-        "githubFrontend": null,
-        "githubBackend": "https://github.com/kyra-moore21/TechConnect"
+        "githubBackend": null,
+        "githubFullStack": null
     }
-
+    
 ]
