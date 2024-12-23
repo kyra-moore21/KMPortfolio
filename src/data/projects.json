@@ -1,10 +1,30 @@
 [
     {
+        "title": "Chromatica",
+        "imageSrc": "projectScreenshots/chromatica.png",
+        "description": "Machine learning music recommendation app that uses Spotify's API to recommend songs based on the user's mood, event, and selected genre.",
+        "skills": [
+            "Angular",
+            "Supabase",
+            "Figma",
+            "Tailwind CSS"
+        ],
+        "demo": null,
+        "githubFrontend": null,
+        "githubBackend": null,
+        "githubFullStack": null
+    },
+    {
         "title": "The Prioritizer",
         "imageSrc": "projectScreenshots/priortizer.png",
         "description": "An all an one app to organize your life. Used five external apis, linked to a SQL Server database, and hosted on Azure.",
-        "skills": ["Angular", "C#", "REST APIs", "PosgreSQL"],
-        "demo": "https://theprioritizer.netlify.app/", 
+        "skills": [
+            "Angular",
+            "C#",
+            "REST APIs",
+            "PostgreSQL"
+        ],
+        "demo": "https://theprioritizer.netlify.app/",
         "githubFrontend": "https://github.com/kyra-moore21/ProcrastinationFrontEnd",
         "githubBackend": "https://github.com/L-Code23/ProcrastinatorBackEnd-",
         "githubFullStack": null
@@ -13,18 +33,27 @@
         "title": "IT Help Desk",
         "imageSrc": "projectScreenshots/ItHelpDesk.png",
         "description": "Collaborated to create a full stack IT Ticket Help Desk allowing users to add, view, bookmark, and comment on tickets.",
-        "skills": ["Angular",  "C#", "SQL", "REST APIs"],
+        "skills": [
+            "Angular",
+            "C#",
+            "SQL",
+            "REST APIs"
+        ],
         "demo": null,
         "githubFrontend": "https://github.com/kyra-moore21/TicketSystemFrontEnd-Fork",
         "githubBackend": "https://github.com/kyra-moore21/TicketBackend-Fork",
         "githubFullStack": null
-
     },
     {
         "title": "Number Converter",
         "imageSrc": "projectScreenshots/code.jpg",
         "description": "A full stack app that converts numbers to words. Used Azure to host the backend and Netlify for the frontend.",
-        "skills": ["C#", ".Net CORE", "React","Azure"],
+        "skills": [
+            "C#",
+            ".Net CORE",
+            "React",
+            "Azure"
+        ],
         "demo": "https://thenumberconverter.netlify.app/",
         "githubFrontend": null,
         "githubBackend": "https://github.com/kyra-moore21/TechConnect",
@@ -34,11 +63,15 @@
         "title": "Portfolio Website",
         "imageSrc": "projectScreenshots/portfoliosite.png",
         "description": "A site to show off what I've worked on and built so far. Put a larger focus on styling and reponsive design. ",
-        "skills": ["React", "JSON", "Netlify", "CSS"],
+        "skills": [
+            "React",
+            "JSON",
+            "Netlify",
+            "CSS"
+        ],
         "demo": "https://kyramoore.netlify.app",
         "githubFrontend": "https://github.com/kyra-moore21/KMPortfolio",
         "githubBackend": null,
         "githubFullStack": null
     }
-    
 ]
