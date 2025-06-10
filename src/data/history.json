@@ -1,15 +1,21 @@
 [
     {
+        "title": "Software Developer Intern",
+        "institution": "Ottawa Area Intermediate School District",
+        "startDate": "October 2024",
+        "endDate": "Present",
+        "img": "experience/OAISD.jpg"
+    },
+    {
         "title": "C# .NET Full Stack Development",
-       "institution":"Grand Circus",
-       "endDate": "July 2024",
-       "img": "experience/GC.png"
+        "institution": "Grand Circus",
+        "endDate": "July 2024",
+        "img": "experience/GC.png"
     },
     {
         "title": "Figma UX UI Design Essentials",
-        "institution":"Udemy",
+        "institution": "Udemy",
         "endDate": "June 2023",
-       "img": "experience/Udemy.png"
-      
+        "img": "experience/Udemy.png"
     }
 ]
