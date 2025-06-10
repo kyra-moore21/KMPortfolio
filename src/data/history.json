@@ -9,12 +9,14 @@
     {
         "title": "C# .NET Full Stack Development",
         "institution": "Grand Circus",
+        "startDate": "April 2024",
         "endDate": "July 2024",
         "img": "experience/GC.png"
     },
     {
         "title": "Figma UX UI Design Essentials",
         "institution": "Udemy",
+        "startDate": "May 2023",
         "endDate": "June 2023",
         "img": "experience/Udemy.png"
     }

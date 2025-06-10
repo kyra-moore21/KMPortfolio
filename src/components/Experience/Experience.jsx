@@ -31,7 +31,7 @@ const Skills = () => {
                 <div className={styles.historyItemDetails}>
                   <h3>{h.title}</h3>
                   <h4>{h.institution}</h4>
-                  <p>{h.endDate}</p>
+                  <p>{h.startDate} - {h.endDate}</p>
                 </div>
               </li>
               </div>
